@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\datastructure\\datastructure\\datastructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\Deque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\Deque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|E:\\datastructure\\datastructure\\datastructure\\datastructure\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E901E3-2EC7-40B9-82CF-F894BE74E34E}|datastructure\\datastructure.vcxproj|solutionrelative:datastructure\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\main.cpp",
+              "RelativeDocumentMoniker": "datastructure\\main.cpp",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\main.cpp",
+              "RelativeToolTip": "datastructure\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T07:40:21.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxHeap.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\MaxHeap.h",
+              "RelativeDocumentMoniker": "datastructure\\MaxHeap.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\MaxHeap.h",
+              "RelativeToolTip": "datastructure\\MaxHeap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T16:50:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "datastructure\\DoublyLinkedList.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\DoublyLinkedList.h",
+              "RelativeToolTip": "datastructure\\DoublyLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T13:32:46.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinaryTree.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinaryTree.h",
+              "RelativeDocumentMoniker": "datastructure\\BinaryTree.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinaryTree.h",
+              "RelativeToolTip": "datastructure\\BinaryTree.h",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T16:49:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinarySearchTree.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinarySearchTree.h",
+              "RelativeDocumentMoniker": "datastructure\\BinarySearchTree.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\BinarySearchTree.h",
+              "RelativeToolTip": "datastructure\\BinarySearchTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T16:49:34.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stack.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Stack.h",
+              "RelativeDocumentMoniker": "datastructure\\Stack.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Stack.h",
+              "RelativeToolTip": "datastructure\\Stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T08:45:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Queue.h",
+              "RelativeDocumentMoniker": "datastructure\\Queue.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Queue.h",
+              "RelativeToolTip": "datastructure\\Queue.h",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T06:51:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deque.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Deque.h",
+              "RelativeDocumentMoniker": "datastructure\\Deque.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\Deque.h",
+              "RelativeToolTip": "datastructure\\Deque.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T09:55:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinglyLinkedList.h",
+              "DocumentMoniker": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\SinglyLinkedList.h",
+              "RelativeDocumentMoniker": "datastructure\\SinglyLinkedList.h",
+              "ToolTip": "E:\\datastructure\\datastructure\\datastructure\\datastructure\\SinglyLinkedList.h",
+              "RelativeToolTip": "datastructure\\SinglyLinkedList.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T15:36:02.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
